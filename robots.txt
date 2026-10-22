@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://robduby76.github.io/fixcodes/sitemap.xml
+Sitemap: https://robduby76.github.io/checklight/sitemap.xml
