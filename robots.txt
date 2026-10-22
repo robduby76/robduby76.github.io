@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
 Sitemap: https://thefixcodes.com/sitemap.xml
-Sitemap: https://robduby76.github.io/checklight/sitemap.xml
